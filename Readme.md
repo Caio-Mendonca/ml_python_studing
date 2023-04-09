@@ -1,4 +1,4 @@
-# Modelo de Rede Neural HAMOA PRICING
+# Modelo de Rede Neural
 
 ## START CONFIGS
 
